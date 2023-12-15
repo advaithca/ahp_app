@@ -79,6 +79,7 @@ st.write("""
             2. Enter the conditions separated by commas.
             3. Press Enter, changes will be reflected in the table.
             4. Enter the values in the table.
+            5. Continue by following the instructions.
          """)
 
 # Perform AHP analysis
